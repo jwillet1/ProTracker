@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  tag_number: MyString
+  build_id: MyString
+  label: MyString
+  milestone: MyString
+  program: MyString
+  description: MyText
+  expected_delivery_date: 2016-02-22 15:29:05
+  actual_delivery_date: 2016-02-22 15:29:05
+  owner: MyString
+
+two:
+  tag_number: MyString
+  build_id: MyString
+  label: MyString
+  milestone: MyString
+  program: MyString
+  description: MyText
+  expected_delivery_date: 2016-02-22 15:29:05
+  actual_delivery_date: 2016-02-22 15:29:05
+  owner: MyString

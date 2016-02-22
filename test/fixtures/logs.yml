@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  vehicle_id: 
+  start: 2016-02-22 15:34:01
+  end: 2016-02-22 15:34:01
+  purpose: MyString
+  note: MyText
+  user: MyString
+  location: MyString
+  complete: false
+
+two:
+  vehicle_id: 
+  start: 2016-02-22 15:34:01
+  end: 2016-02-22 15:34:01
+  purpose: MyString
+  note: MyText
+  user: MyString
+  location: MyString
+  complete: false
